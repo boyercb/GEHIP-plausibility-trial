@@ -1,10 +1,10 @@
 GEHIP-plausibility-trial
 ========================
 
-**GEHIP-plausibility-trial** a collection of files necessary for the replication
-of The Ghana Essential Health Interventions Program (GEHIP), a plausibility
-trial of a health systems strengthening intervention in rural Northern Ghana. A
-description of the research protocol can be found [here](http://bit.ly/1LjXJXk).
+**GEHIP-plausibility-trial** is a collection of files necessary for replication
+of the plausibility trial for the Ghana Essential Health Interventions Program
+(GEHIP): a health systems strengthening initiative in rural Northern Ghana. A
+complete description of the research protocol can be found [here](http://bit.ly/1LjXJXk).
 
 ## File Structure
 - `data`: de-identified data for baseline and endline surveys
